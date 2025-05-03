@@ -72,5 +72,5 @@ Siempre que:
 ## 🤝 Créditos
 
 **Equitas Consultora**  
-[www.equitasconsultora.com](https://www.equitasconsultora.com)  
+[www.equitas.ar](https://www.equitas.ar)  
 Especialistas en integridad, cumplimiento, gestión de riesgos y ética pública y privada.
